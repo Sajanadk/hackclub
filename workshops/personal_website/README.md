@@ -1,7 +1,7 @@
 ---
-name: 'Personal Website'
+name: 'Sajan Adhikari'
 description: 'Make your first website from scratch'
-author: '@MaxWofford'
+author: '@SajanAdhikari'
 locales: 'es-xl, pt-br'
 ---
 
